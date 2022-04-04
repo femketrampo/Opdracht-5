@@ -24,7 +24,7 @@ namespace Opdracht_5
                 Console.Write("keuze: ");
                 keuze = Convert.ToInt32(Console.ReadLine());
 
-                if (keuze <= 3)
+                if (keuze <= 4)
                 {
                     switch (keuze)
                     {
